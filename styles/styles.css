@@ -162,3 +162,6 @@ p {
 .type2 { transition: all .2s ease-in-out; }
 .type2:hover { transform: scale(1.1); 
 }
+h2 {
+	color: red;
+}
