@@ -19,6 +19,7 @@ h1 {
     color: white;
     font-family:"Poppins";
     max-width: auto; max-height: auto;
+	padding: 50px;
 }
 h3 {
     font-family: "Glacial Indifference";
@@ -164,4 +165,6 @@ p {
 }
 h2 {
 	color: red;
+	padding: 100px;
+	font-size: 15px;
 }
