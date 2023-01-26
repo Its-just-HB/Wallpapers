@@ -168,3 +168,38 @@ h2 {
 	padding: 10px;
 	font-size: 15px;
 }
+#nav1 {
+	color: white;
+	background-color: red;
+	width: 500px;
+	font-size: 50px;
+	display: flex;
+	margin: 0
+}
+
+#nav2 {
+	transition: all .2s ease-in-out;
+	color: white;
+	background-color: slategray;
+	width: 500px;
+	font-size: 50px;
+	display: flex; 
+	margin: 0
+}
+#nav2:hover { transform: scale(1.1);
+	color: white;
+	background-color: blue
+}
+#nav3 {
+	transition: all .2s ease-in-out;
+	color: white;
+	background-color: slategray;
+	width: 500px;
+	font-size: 50px;
+	display: flex;
+	margin: 0 
+}
+#nav3:hover { transform: scale(1.1);
+	color: white;
+	background-color: blue
+}
